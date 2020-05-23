@@ -1,0 +1,373 @@
+[
+  {
+    "model": "portfolios.tech",
+    "pk": 1,
+    "fields": {
+      "tech_stack": "Java"
+    }
+  },
+  {
+    "model": "portfolios.tech",
+    "pk": 2,
+    "fields": {
+      "tech_stack": "C"
+    }
+  },
+  {
+    "model": "portfolios.tech",
+    "pk": 3,
+    "fields": {
+      "tech_stack": "C++"
+    }
+  },
+  {
+    "model": "portfolios.tech",
+    "pk": 4,
+    "fields": {
+      "tech_stack": "Python"
+    }
+  },
+  {
+    "model": "portfolios.tech",
+    "pk": 5,
+    "fields": {
+      "tech_stack": "AI"
+    }
+  },
+  {
+    "model": "portfolios.tech",
+    "pk": 6,
+    "fields": {
+      "tech_stack": "IoT"
+    }
+  },
+  {
+    "model": "portfolios.tech",
+    "pk": 7,
+    "fields": {
+      "tech_stack": "자율주행"
+    }
+  },
+  {
+    "model": "portfolios.tech",
+    "pk": 8,
+    "fields": {
+      "tech_stack": "빅데이터"
+    }
+  },
+  {
+    "model": "portfolios.tech",
+    "pk": 9,
+    "fields": {
+      "tech_stack": "Django"
+    }
+  },
+  {
+    "model": "portfolios.tech",
+    "pk": 10,
+    "fields": {
+      "tech_stack": "Vue"
+    }
+  },
+  {
+    "model": "portfolios.tech",
+    "pk": 11,
+    "fields": {
+      "tech_stack": "JavaScript"
+    }
+  },
+{
+  "model": "portfolios.portfolio",
+  "pk": 1,
+  "fields": {
+    "title": "port11",
+    "user": 1,
+    "public": true,
+    "created_at": "2020-02-07",
+    "update_at": "2020-02-07",
+    "project_start": "2020-02-07",
+    "project_end": "2020-02-07",
+    "content_img_1": "2_UM4emFx.jpg",
+    "content_sub_1": "img",
+    "content_img_2": "7_GvuCEra.jfif",
+    "content_sub_2": "tset",
+    "content_img_3": "4_ccjJVU9.jfif",
+    "content_sub_3": "dsf",
+    "content_img_4": "portfolio_img_2_ljlVS3m.png",
+    "content_sub_4": "sdfs",
+    "content_img_5": "",
+    "content_sub_5": "",
+    "content_img_6": "",
+    "content_sub_6": "",
+    "content_img_7": "",
+    "content_sub_7": "",
+    "content_img_8": "",
+    "content_sub_8": "",
+    "content_img_9": "",
+    "content_sub_9": "",
+    "content_img_10": "",
+    "content_sub_10": "",
+    "tech_category": [
+      1,
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "portfolios.portfolio",
+  "pk": 2,
+  "fields": {
+    "title": "port 22",
+    "user": 1,
+    "public": true,
+    "created_at": "2020-02-07",
+    "update_at": "2020-02-07",
+    "project_start": "2020-02-07",
+    "project_end": "2020-02-07",
+    "content_img_1": "20200121_153314_foyfjl3.jpg",
+    "content_sub_1": "sdf",
+    "content_img_2": "portfolio_img_2_XsoK2C8.png",
+    "content_sub_2": "sdf",
+    "content_img_3": "",
+    "content_sub_3": "",
+    "content_img_4": "",
+    "content_sub_4": "",
+    "content_img_5": "",
+    "content_sub_5": "",
+    "content_img_6": "",
+    "content_sub_6": "",
+    "content_img_7": "",
+    "content_sub_7": "",
+    "content_img_8": "",
+    "content_sub_8": "",
+    "content_img_9": "",
+    "content_sub_9": "",
+    "content_img_10": "",
+    "content_sub_10": "",
+    "tech_category": [
+      1,
+      3
+    ]
+  }
+},
+{
+  "model": "portfolios.portfolio",
+  "pk": 3,
+  "fields": {
+    "title": "sdsfsdf",
+    "user": 1,
+    "public": true,
+    "created_at": "2020-02-07",
+    "update_at": "2020-02-07",
+    "project_start": "2020-02-07",
+    "project_end": "2020-02-07",
+    "content_img_1": "20200121_153312_KeuFQeA.jpg",
+    "content_sub_1": "dd",
+    "content_img_2": "",
+    "content_sub_2": "",
+    "content_img_3": "",
+    "content_sub_3": "",
+    "content_img_4": "",
+    "content_sub_4": "",
+    "content_img_5": "",
+    "content_sub_5": "",
+    "content_img_6": "",
+    "content_sub_6": "",
+    "content_img_7": "",
+    "content_sub_7": "",
+    "content_img_8": "",
+    "content_sub_8": "",
+    "content_img_9": "",
+    "content_sub_9": "",
+    "content_img_10": "",
+    "content_sub_10": "",
+    "tech_category": [
+      1,
+      3
+    ]
+  }
+},
+{
+  "model": "portfolios.portfolio",
+  "pk": 4,
+  "fields": {
+    "title": "test",
+    "user": 1,
+    "public": true,
+    "created_at": "2020-02-07",
+    "update_at": "2020-02-07",
+    "project_start": "2020-02-07",
+    "project_end": "2020-02-07",
+    "content_img_1": "blue_u2nEL15.png",
+    "content_sub_1": "d",
+    "content_img_2": "",
+    "content_sub_2": "",
+    "content_img_3": "",
+    "content_sub_3": "",
+    "content_img_4": "",
+    "content_sub_4": "",
+    "content_img_5": "",
+    "content_sub_5": "",
+    "content_img_6": "",
+    "content_sub_6": "",
+    "content_img_7": "",
+    "content_sub_7": "",
+    "content_img_8": "",
+    "content_sub_8": "",
+    "content_img_9": "",
+    "content_sub_9": "",
+    "content_img_10": "",
+    "content_sub_10": "",
+    "tech_category": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "portfolios.portfolio",
+  "pk": 5,
+  "fields": {
+    "title": "5555",
+    "user": 1,
+    "public": true,
+    "created_at": "2020-02-07",
+    "update_at": "2020-02-07",
+    "project_start": "2020-02-07",
+    "project_end": "2020-02-07",
+    "content_img_1": "\uacbd\uae30\ub3c4\ubbfc_\ucc28\ub7c9\uc774\uc6a9\uc2dc\uac04_oqcWie3.PNG",
+    "content_sub_1": "d",
+    "content_img_2": "",
+    "content_sub_2": "",
+    "content_img_3": "",
+    "content_sub_3": "",
+    "content_img_4": "",
+    "content_sub_4": "",
+    "content_img_5": "",
+    "content_sub_5": "",
+    "content_img_6": "",
+    "content_sub_6": "",
+    "content_img_7": "",
+    "content_sub_7": "",
+    "content_img_8": "",
+    "content_sub_8": "",
+    "content_img_9": "",
+    "content_sub_9": "",
+    "content_img_10": "",
+    "content_sub_10": "",
+    "tech_category": [
+      1,
+      3
+    ]
+  }
+},
+{
+  "model": "portfolios.portfolio",
+  "pk": 6,
+  "fields": {
+    "title": "666stest",
+    "user": 1,
+    "public": true,
+    "created_at": "2020-02-07",
+    "update_at": "2020-02-07",
+    "project_start": "2020-02-07",
+    "project_end": "2020-02-07",
+    "content_img_1": "20200121_153312_jl3m8za.jpg",
+    "content_sub_1": "df",
+    "content_img_2": "",
+    "content_sub_2": "",
+    "content_img_3": "",
+    "content_sub_3": "",
+    "content_img_4": "",
+    "content_sub_4": "",
+    "content_img_5": "",
+    "content_sub_5": "",
+    "content_img_6": "",
+    "content_sub_6": "",
+    "content_img_7": "",
+    "content_sub_7": "",
+    "content_img_8": "",
+    "content_sub_8": "",
+    "content_img_9": "",
+    "content_sub_9": "",
+    "content_img_10": "",
+    "content_sub_10": "",
+    "tech_category": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "portfolios.portfolio",
+  "pk": 7,
+  "fields": {
+    "title": "\uc601\ud654 \ucd94\ucc9c \uc0ac\uc774\ud2b8 \ud3ec\ud2b8 \ud3f4\ub9ac\uc624",
+    "user": 2,
+    "public": true,
+    "created_at": "2020-02-07",
+    "update_at": "2020-02-07",
+    "project_start": "2019-11-11",
+    "project_end": "2019-11-22",
+    "content_img_1": "1_Q11jYwA.jpg",
+    "content_sub_1": "\ud504\ub85c\uc81d\ud2b8\r\n-  Django Web-Framework\uc640 Vanila JS\ub97c \uc0ac\uc6a9\ud55c \uc601\ud654 \ucd94\ucc9c \uc0ac\uc774\ud2b8\r\n    - \uc120\ud638\uc7a5\ub974 \uc601\ud654 \ucd94\ucc9c \uae30\ub2a5\r\n    -\uc88b\uc544\uc694\ud55c \uc601\ud654 \uad00\ub828 \uc601\ud654 \ucd94\ucc9c \uae30\ub2a5",
+    "content_img_2": "1.jfif",
+    "content_sub_2": "NOTION (\uac1c\ubc1c\uc77c\uc9c0)",
+    "content_img_3": "7_KKm0HJm.jfif",
+    "content_sub_3": "\ub85c\uadf8\uc778 \ud654\uba74 (SNS \ub85c\uadf8\uc778 \ud3ec\ud568)",
+    "content_img_4": "2.jfif",
+    "content_sub_4": "\uc601\ud654 \ucd94\ucc9c \ud398\uc774\uc9c0 : carousel\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc5ec\ub7ec \uc601\ud654\ub97c \ud655\uc778\uac00\ub2a5\ud558\ub2e4.",
+    "content_img_5": "4_Wmupwoc.jfif",
+    "content_sub_5": "\uc601\ud654 \uc138\ubd80\ub0b4\uc6a9 \ud398\uc774\uc9c0",
+    "content_img_6": "5.jfif",
+    "content_sub_6": "\uc601\ud654\ubc30\uc6b0\ub4e4\uc744 \ud655\uc778 \ud560\uc218 \uc788\ub2e4.",
+    "content_img_7": "6.jfif",
+    "content_sub_7": "\ub313\uae00 \uae30\ub2a5 : \uc218\uc815, \uc0ad\uc81c , Follow\uae30\ub2a5",
+    "content_img_8": "8.jfif",
+    "content_sub_8": "User \uac1c\uc778 \ud398\uc774\uc9c0 : \uc0ac\uc6a9\uc790\uac00 \uc88b\uc544\uc694\ud55c \uc601\ud654, \uc7a5\ub974\ub97c \ud655\uc778\ud560\uc218 \uc788\uace0 , Follow\ud55c \uc720\uc800\ub4e4\uc758 \uc120\ud638\ud558\ub294 \uc601\ud654\ub97c \ubcfc\uc218 \uc788\ub2e4.",
+    "content_img_9": "",
+    "content_sub_9": "",
+    "content_img_10": "",
+    "content_sub_10": "",
+    "tech_category": [
+      2,
+      4,
+      5
+    ]
+  }
+},
+{
+  "model": "portfolios.comment",
+  "pk": 1,
+  "fields": {
+    "content": "ss",
+    "created_at": "2020-02-07T01:17:01.815Z",
+    "updated_at": "2020-02-07T01:17:01.815Z",
+    "portfolio": 1,
+    "user": 1
+  }
+},
+{
+  "model": "portfolios.comment",
+  "pk": 2,
+  "fields": {
+    "content": "ddd",
+    "created_at": "2020-02-07T01:17:08.239Z",
+    "updated_at": "2020-02-07T01:17:08.239Z",
+    "portfolio": 1,
+    "user": 1
+  }
+},
+{
+  "model": "portfolios.comment",
+  "pk": 3,
+  "fields": {
+    "content": "bootstrap\uc0ac\uc6a9\ud588\ub098\uc694?",
+    "created_at": "2020-02-07T02:55:20.878Z",
+    "updated_at": "2020-02-07T02:55:20.878Z",
+    "portfolio": 7,
+    "user": 1
+  }
+}
+]

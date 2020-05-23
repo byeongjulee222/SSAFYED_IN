@@ -1,0 +1,70 @@
+    .form_data {
+        margin-left: 50px;
+        margin-right: 50px;
+        padding-top: 50px;
+        padding-bottom: 150px;
+    }
+
+    .col {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .pad {
+        padding-bottom: 20px;
+        margin-bottom: 12px;
+    }
+
+    .col-md-7 offset-md-5 col {
+        text-align: right;
+    }
+
+    .file-upload .fileName {
+        display: inline-block;
+        width: 400px;
+        height: 30px;
+        padding-left: 10px;
+        margin-right: 5px;
+        line-height: 30px;
+        border: 1px solid #aaa;
+        background-color: #fff;
+        vertical-align: middle
+    }
+
+    .file-upload .btn_file {
+        display: inline-block;
+        border: 1px solid #000;
+        border-radius: 40px / 40px;
+        width: 100px;
+        height: 30px;
+        font-size: 0.8em;
+        line-height: 30px;
+        text-align: center;
+        vertical-align: middle
+    }
+
+    .file-upload input[type="file"] {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        border: 0
+    }
+
+    .upload_image {
+        width: 100%;
+    }
+
+    @media (min-width: 320px) and (max-width: 560px) {
+        .v-stepper__header{
+            height:48px;
+        }  
+        .v-stepper__step{
+            padding:12px; 
+        }
+        
+    }
+     

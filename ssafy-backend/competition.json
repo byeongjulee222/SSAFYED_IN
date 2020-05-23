@@ -1,0 +1,119 @@
+[
+{
+  "model": "competitions.competition",
+  "pk": 1,
+  "fields": {
+    "user_name": 1,
+    "title": "com1",
+    "end_date": "2020-02-07",
+    "created_at": "2020-02-07",
+    "update_at": "2020-02-07",
+    "region": "d",
+    "qualitification": "d",
+    "content": "s",
+    "population": "d",
+    "complete": false,
+    "company_url": "ff",
+    "recruit_logo": "3_lIipyVu.png",
+    "applicant_competition_user": [
+      1
+    ],
+    "tech_category": [
+      2
+    ]
+  }
+},
+{
+  "model": "competitions.competition",
+  "pk": 2,
+  "fields": {
+    "user_name": 1,
+    "title": "com 22",
+    "end_date": "2020-02-07",
+    "created_at": "2020-02-07",
+    "update_at": "2020-02-07",
+    "region": "asfsd",
+    "qualitification": "dsf",
+    "content": "dsf",
+    "population": "dsf",
+    "complete": false,
+    "company_url": "sdf",
+    "recruit_logo": "20200121_153314_izANA9e.jpg",
+    "applicant_competition_user": [],
+    "tech_category": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "competitions.competition",
+  "pk": 3,
+  "fields": {
+    "user_name": 1,
+    "title": "3333333333",
+    "end_date": "2020-02-07",
+    "created_at": "2020-02-07",
+    "update_at": "2020-02-07",
+    "region": "sadf",
+    "qualitification": "saf",
+    "content": "sdf",
+    "population": "sdf",
+    "complete": false,
+    "company_url": "sdf",
+    "recruit_logo": "excited_E023dyk.png",
+    "applicant_competition_user": [],
+    "tech_category": [
+      1
+    ]
+  }
+},
+{
+  "model": "competitions.competition",
+  "pk": 4,
+  "fields": {
+    "user_name": 1,
+    "title": "\uacf5\ubaa8\uc804 1",
+    "end_date": "2020-02-28",
+    "created_at": "2020-02-06",
+    "update_at": "2020-02-06",
+    "region": "\uc9c0\uc5ed1",
+    "qualitification": "\uc790\uaca91",
+    "content": "\ub0b4\uc6a91",
+    "population": "\uc778\uad6c1",
+    "complete": false,
+    "company_url": "url1",
+    "recruit_logo": "tiger_M6lbYRK.jpg",
+    "applicant_competition_user": [
+      1
+    ],
+    "tech_category": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "competitions.competition",
+  "pk": 5,
+  "fields": {
+    "user_name": 1,
+    "title": "\uacf5\ubaa8\uc8042",
+    "end_date": "2020-02-15",
+    "created_at": "2020-02-06",
+    "update_at": "2020-02-06",
+    "region": "\uc9c0\uc5ed2",
+    "qualitification": "\uc790\uaca92",
+    "content": "\ub0b4\uc6a92",
+    "population": "\uc778\uad6c2",
+    "complete": false,
+    "company_url": "url2",
+    "recruit_logo": "puppy_HEVzwfq.jpg",
+    "applicant_competition_user": [],
+    "tech_category": [
+      2,
+      3
+    ]
+  }
+}
+]

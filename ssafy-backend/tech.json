@@ -1,0 +1,79 @@
+[
+{
+  "model": "portfolios.tech",
+  "pk": 1,
+  "fields": {
+    "tech_stack": "Java"
+  }
+},
+{
+  "model": "portfolios.tech",
+  "pk": 2,
+  "fields": {
+    "tech_stack": "C"
+  }
+},
+{
+  "model": "portfolios.tech",
+  "pk": 3,
+  "fields": {
+    "tech_stack": "C++"
+  }
+},
+{
+  "model": "portfolios.tech",
+  "pk": 4,
+  "fields": {
+    "tech_stack": "Python"
+  }
+},
+{
+  "model": "portfolios.tech",
+  "pk": 5,
+  "fields": {
+    "tech_stack": "AI"
+  }
+},
+{
+  "model": "portfolios.tech",
+  "pk": 6,
+  "fields": {
+    "tech_stack": "IoT"
+  }
+},
+{
+  "model": "portfolios.tech",
+  "pk": 7,
+  "fields": {
+    "tech_stack": "\uc790\uc728\uc8fc\ud589"
+  }
+},
+{
+  "model": "portfolios.tech",
+  "pk": 8,
+  "fields": {
+    "tech_stack": "\ube45\ub370\uc774\ud130"
+  }
+},
+{
+  "model": "portfolios.tech",
+  "pk": 9,
+  "fields": {
+    "tech_stack": "Django"
+  }
+},
+{
+  "model": "portfolios.tech",
+  "pk": 10,
+  "fields": {
+    "tech_stack": "Vue"
+  }
+},
+{
+  "model": "portfolios.tech",
+  "pk": 11,
+  "fields": {
+    "tech_stack": "JavaScript"
+  }
+}
+]

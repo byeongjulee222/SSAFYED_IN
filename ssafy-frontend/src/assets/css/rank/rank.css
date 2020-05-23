@@ -1,0 +1,60 @@
+.rank_div {
+    position: relative;
+    width: 100%;
+    margin: 5px 0;
+    overflow: hidden;
+}
+.rank_img {
+    float: left;
+}
+.rank_div img {
+    width: 200px;
+    height: 220px;
+    margin: 17px 0 17px 15px;
+}
+.rank_title {
+    padding: 0 18px;
+    display: -webkit-box;
+}
+
+.rank_writter {
+    float: right;
+    width: 150px;
+    margin-right: 15px;
+}
+.rank_cont {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    line-height: 1.5;
+    height: 6.0em;
+    text-align: left;
+    word-wrap: break-word;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    padding: 0 40px;
+}
+
+.rank_tech {
+    margin-top: 15px;
+    padding: 0 18px;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    word-wrap: break-word;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    height:72px;
+}
+
+.v-card--reveal {
+    align-items: center;
+    bottom: 0;
+    justify-content: center;
+    opacity: .5;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}

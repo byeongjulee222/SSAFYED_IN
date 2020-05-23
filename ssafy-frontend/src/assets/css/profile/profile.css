@@ -1,0 +1,62 @@
+h2 {
+    text-align: left;
+}
+ul{
+    list-style: none;
+}
+.profile {
+    width: 100%;
+    box-sizing: border-box;
+    height: 100%;
+    display: flex;
+}
+
+.profile_right {
+    display: inline-block;
+    width: 80%;
+    box-sizing: border-box;
+}
+.profile_wrap {
+    margin: 0 50px;
+}
+.v-card__title div .headline {
+    font-family: "Noto Sans", "Noto Sans CJK KR", sans-serif!important;
+    font-weight: 900;
+}
+.v-application .grey--text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    /* width: 230px; */
+    display: inline-block;
+    white-space: normal;
+    line-height: 1.5;
+    height: 4.5em;
+    text-align: left;
+    word-wrap: break-word;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+@media screen and (max-width: 1000px) {
+    .profile, .profile_left, .profile_right{
+        display: block;
+        width: 100%;
+        overflow: hidden;
+        height: unset;
+    }
+    .profile_img {
+        width: 50%;
+    }
+    .if_mobile .flex.xs4{
+        width: 50%;
+        max-width: 50%;
+    }
+}
+@media screen and (max-width:768px){
+    .if_mobile .flex.xs4{
+        width: 100%;
+        max-width: 400px;
+        margin:0 auto;
+    }
+}

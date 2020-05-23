@@ -1,0 +1,20 @@
+#portfolio {
+  height: 400px;
+  background-color: cornflowerblue;
+}
+
+ #post {
+  height: 700px;
+  width: 50%;
+  float: left;
+}
+
+ #rank {
+  height: 700px;
+  width: 50%;
+  float: left;
+}
+
+h2{
+  text-align: center;
+}
