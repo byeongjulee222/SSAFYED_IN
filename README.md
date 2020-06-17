@@ -1,4 +1,5 @@
 # :information_desk_person: SSAFYED_IN
+
 SSAFY 교육생들을 위한 커뮤니티 서비스
 
 
@@ -9,14 +10,10 @@ SSAFY 교육생들을 위한 커뮤니티 서비스
 >
 >"선후배간의 소통과 취업정보까지 한 번에!"
 
-
-
 - SSAFYED_IN 서비스는 SSAFY 교육생간의 소통이 어려운 점을 해소하기 위해 오픈된 공간을 제공하여 서로 교류할 수 있는 환경을 제공해주는 서비스 입니다.
 - 프로젝트 기간: 20.01.13 - 20.02.28
 
-
-
-
+<br>
 
 ## :two: Tech Stack
 
@@ -32,9 +29,25 @@ SSAFY 교육생들을 위한 커뮤니티 서비스
 
 :round_pushpin: **Using Editor** : Visual Studio Code
 
+<br>
 
+## :star: 맡은 역할
 
+- 기술스택: `Python`,  `Django`, `MySQL`
+- 백엔드 모델링
+  - User, Portfolio, Recruit, Competition 모델링
+- 유저관련 기능 구현
+  - 회원가입, 로그인, 비밀번호 찾기 구현
+  - 회원가입 시, 인증 사진을 첨부하여 관리자가 직접 확인 후 승인할 수 있도록 함(SSAFY 교육생/인사담당자)
+- 포트폴리오 관련  기능
+  - 개인 포트폴리오 작성 템플릿을 제공하여 각 항목에 맞는 내용을 작성하면 포트폴리오가 저장되도록 구현
+  - 공개/비공개 설정 기능 구현
+- 공모전 관련 기능
+  - 공모전 모집 글 작성 기능
+    - 사진 첨부 기능, 달력을 사용한 기간 설정, 마감까지 남은 기간 표시
+  - 공모전 지원 시, 모집글을 올린 작성자에게 알림을 보내 서로 연락할 수 있도록 구현
 
+<br>
 
 ## :three: Quick Start
 
@@ -58,19 +71,13 @@ npm instlal
 npm run serve
 ```
 
-
-
-
+<br>
 
 ### :pushpin: 배포 환경에서 실행
 
 - http://i02b102.p.ssafy.io/ 주소를 접속해서 볼 수 있습니다.
 
-
-
-
-
-
+<br>
 
 ## :four: Homepage Configuration
 
@@ -82,7 +89,7 @@ npm run serve
 
 ![image](https://user-images.githubusercontent.com/52685247/82724233-977f6400-9d0f-11ea-981d-8f4099803258.png)
 
-
+<br>
 
 #### (2) 회원 권한 변경(인증 단계)
 
@@ -91,9 +98,7 @@ npm run serve
 
 ![image](https://user-images.githubusercontent.com/52685247/82724148-fabcc680-9d0e-11ea-928d-e0ea095c35b9.png)
 
-
-
-
+<br>
 
 #### (3) 포트폴리오 목록 페이지
 
@@ -102,9 +107,7 @@ npm run serve
 
 ![image](https://user-images.githubusercontent.com/52685247/82724246-b120ab80-9d0f-11ea-84fb-da816eb13a92.png)
 
-
-
-
+<br>
 
 #### (4) 공모전 게시판
 
@@ -113,9 +116,7 @@ npm run serve
 
 ![image](https://user-images.githubusercontent.com/52685247/82724840-d7484a80-9d13-11ea-9c72-e77a5e5fcf88.png)
 
-
-
-
+<br>
 
 #### (5) 채용 게시판
 
@@ -123,9 +124,7 @@ npm run serve
 
 ![image](https://user-images.githubusercontent.com/52685247/82724883-0a8ad980-9d14-11ea-9857-12d8e47c09ef.png)
 
-
-
-
+<br>
 
 #### (6) 메세지 보내기 기능
 
@@ -134,7 +133,7 @@ npm run serve
 
 ![image](https://user-images.githubusercontent.com/52685247/82724934-7a995f80-9d14-11ea-9e3a-2168ff69bdb6.png)
 
-
+<br>
 
 #### (7) 포트폴리오 등록 페이지
 
@@ -147,9 +146,7 @@ npm run serve
 
 ![image](https://user-images.githubusercontent.com/52685247/82729495-fc988100-9d32-11ea-90b4-1cf6b69d913b.png)
 
-
-
-
+<br>
 
 #### (8) 공모전 등록
 
@@ -160,7 +157,7 @@ npm run serve
 
 ![image](https://user-images.githubusercontent.com/52685247/82729751-163ac800-9d35-11ea-9bfb-0c368c83e0c0.png)
 
-
+<br>
 
 #### (9) 공모전 지원
 
@@ -171,12 +168,10 @@ npm run serve
 
 ![image](https://user-images.githubusercontent.com/52685247/82729807-6a45ac80-9d35-11ea-9dc8-363fddfa4a1f.png)
 
-
-
-
+<br>
 
 #### (10) 전송된 메세지 확인
 
 - 사용자끼리 주고받은 메세지를 한번에 볼 수 있고, 바로 답장할 수 있는 페이지 구현
 
-![image](https://user-images.githubusercontent.com/52685247/82729522-2d78b600-9d33-11ea-8dbb-2c895f713ab8.png)
+![image](https://user-images.githubusercontent.com/52685247/82729522-2d78b600-9d33-11ea-8dbb-2c895f713ab8.png)<br>
